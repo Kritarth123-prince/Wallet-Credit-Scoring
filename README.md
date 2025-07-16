@@ -50,3 +50,6 @@ Scores are calculated using a weighted sum of the features above. Higher scores 
 
 - The code is organized using classes for easy feature addition or model substitution.
 - All core logic is in `wallet_credit_score.py`.
+
+## Image
+![Credit Score Distribution](wallet_score_histogram.png)
