@@ -28,7 +28,7 @@ Scores are calculated using a weighted sum of the features above. Higher scores 
     - `output_plot`: output histogram image filename
 3. **Run the script:**
     ```
-    python aave_credit_scoring.py
+    python wallet_credit_score.py
     ```
 4. **Outputs:**
     - A CSV file with columns: `wallet,credit_score`
